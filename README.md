@@ -55,16 +55,15 @@ User Input ↓ Intent Detection (question type, gratitude, slang, mood) ↓ Tiny
 
 ---
 
-## 📦 Installation
-
-Clone the repo:
-
 ```bash
 git clone https://github.com/wonish-creator/mlm-framework
 cd mlm-framework
----
-Note from dev🥴
-
-Remember, this is a FRAMEWORK not a full chatbot, while there is a small corpus included its just to show you how it works, you can chat with it by first running train.py to create and train the model, and then chat.py to chat.
-
-To install the optional mchat and mtrain commands to quicly train/cht with it, simply move the mtrain.bat and mchat.bat into system32 so access the commands anywhere, I hope you have fun experimenting and make your own Chatbot!
+```
+Note from dev 🥴
+Remember, this is a framework, not a full chatbot.
+While a small example corpus is included, it’s only there to show how the system works.
+To try it out:
+- Run train.py to create and train the model
+- Run chat.py to chat with it
+If you want quick global commands, move mtrain.bat and mchat.bat into your System32 folder so you can train/chat from anywhere.
+Have fun experimenting and building your own chatbot!
