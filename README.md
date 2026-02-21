@@ -65,5 +65,6 @@ While a small example corpus is included, it’s only there to show how the syst
 To try it out:
 - Run train.py to create and train the model
 - Run chat.py to chat with it
-If you want quick global commands, move mtrain.bat and mchat.bat into your System32 folder so you can train/chat from anywhere.
+If you want quick global commands,
+ move mtrain.bat and mchat.bat into your System32 folder so you can train/chat from anywhere.
 Have fun experimenting and building your own chatbot!
