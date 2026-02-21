@@ -63,8 +63,8 @@ Note from dev 🥴
 Remember, this is a framework, not a full chatbot.
 While a small example corpus is included, it’s only there to show how the system works.
 To try it out:
-- Run train.py to create and train the model
-- Run chat.py to chat with it
+- Run train.py to create and train the model.
+- Run chat.py to chat with it.
 If you want quick global commands,
  move mtrain.bat and mchat.bat into your System32 folder so you can train/chat from anywhere.
 Have fun experimenting and building your own chatbot!
